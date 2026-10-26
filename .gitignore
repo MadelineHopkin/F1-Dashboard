@@ -1,0 +1,21 @@
+#Virtual environment
+venv/
+
+#FastF1 cache
+cache/
+
+#Python cache
+__pycache__/
+*.pyc
+
+#VS Code 
+.vscode/
+
+#Environment variables
+.env
+
+#Windmows
+Thumbs.db
+
+#macOS
+.DS_Store
